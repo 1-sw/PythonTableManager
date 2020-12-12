@@ -1,0 +1,16 @@
+Рассписание Воссточного наряда - Fri, 13 Nov 2020 21:43:58 +0000
+
+----------
+ПН-ВТ-СР
+
+[(35, 'Сергей', 'Ашотов', 'Тест', 5)]
+[(34, 'qwertyu', 'asdfghj', 'xcvbn', 4)]
+[(33, 'qqqqqqq', 'qqqqqqqqqq', 'qqqqqqqqqqqq', 4)]
+[(32, 'qweqwerrr', 'qweqwerrr', 'qweqwerrrr', 5)]
+[(31, 'qwerty', 'asdfgh', 'asdfg', 4)]
+[(1, 'lololoaa', 'lolololaa', 'lolololoaa', 3)]
+[(2, 'ashot', 'ashotov', 'ashotovich', 1)]
+[(3, 'ashot', 'ashotov', 'ashotovich', 1)]
+[(4, 'qweqweqweqwe', 'qweqweqweqwe', 'qweqweqweqwe', 4)]
+[(5, 'ашот', 'странный', 'тест', 4)]
+[(6, 'Fijj', 'asdasd', 'qwe', 3)]
